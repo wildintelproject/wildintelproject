@@ -1,4 +1,4 @@
-# WildIntel 🌿
+# WildIntel 🌿 🦊 🐺 🦌 🐻
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwildintel.eu)
 ![License](https://img.shields.io/badge/license-MIT-green)
