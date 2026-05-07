@@ -20,6 +20,54 @@ Visit our official website: [https://wildintel.eu](https://wildintel.eu)
 - **Interoperable Data**: Create a coherent and automated workflow for camera trapping and engage regional, national, and European stakeholders.
 - **EBVs**: Advance the production of near real-time, automated species and community EBV datacubes.
 
+🏛️ 🌟 Project Consortium
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="IOP.webp" width="200"><br>
+      Institute of Nature Conservation PAS
+    </td>
+    <td align="center">
+      <img src="Huelva.webp" width="200"><br>
+      Institute of Nature Conservation PAS
+    </td>
+    <td align="center">
+      <img src="USN.webp" width="200"><br>
+      University of South-Eastern Norway
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="IDIV.webp" width="200"><br>
+      German Centre for Integrative Biodiversity Research
+    </td>
+    <td align="center">
+      <img src="CSIC.webp" width="200"><br>
+      Spanish National Research Council
+    </td>
+    <td align="center">
+      <img src="MIT.webp" width="200"><br>
+      Massachusetts Institute of Technology
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="GBIF.webp" width="200"><br>
+      Spanish Node of the Global Biodiversity Information Facility
+    </td>
+    <td align="center">
+      <img src="BiodiversaLogo_FINAL_RGB-2048x786.webp" width="200"><br>
+      Biodiversa +
+    </td>
+    <td align="center">
+      <br>
+    </td>
+  </tr>
+</table>
+
 ----
 <!--
 **wildintelproject/wildintelproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
