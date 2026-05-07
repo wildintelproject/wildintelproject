@@ -20,7 +20,7 @@ Visit our official website: [https://wildintel.eu](https://wildintel.eu)
 - **Interoperable Data**: Create a coherent and automated workflow for camera trapping and engage regional, national, and European stakeholders.
 - **EBVs**: Advance the production of near real-time, automated species and community EBV datacubes.
 
-🏛️ 🌟 Project Consortium
+## 🏛️ Project Consortium
 
 <table>
   <tr>
